@@ -1,0 +1,4 @@
+/.env
+/crudproject/__pycache__
+/crudapp/__pycache__
+/crudapp/migrations
